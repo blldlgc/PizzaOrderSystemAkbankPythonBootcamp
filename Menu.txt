@@ -1,0 +1,22 @@
+*******************
+MENU
+*******************
+1: Klasik Pizza     ₺99.95
+2: Margarita        ₺96.95
+3: Türk Pizza       ₺89.95
+4: Sade Pizza       ₺75.00
+
+*Pizza Boyutu*
+5: Küçük Boy      + ₺0.00
+6: Orta Boy       + ₺9.90
+7: Büyük Boy      + ₺16.90
+
+*Ekstra Malzeme*
+11: Zeytin        + ₺9.90
+12: Mantarlar     + ₺11.90
+13: Keçi Peyniri  + ₺14.90
+14: Et            + ₺19.90
+15: Soğan         + ₺6.90
+16: Mısır         + ₺8.90
+17: İstemiyorum   + ₺0.00
+*******************
